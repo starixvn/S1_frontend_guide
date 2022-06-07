@@ -59,6 +59,8 @@
 
 - Jeskins
 
+  > 用於部署環境
+
   - [DEV](http://13.213.82.69:8080/)
   - [Release/PRD](https://jenkins.n88dev.com/)
 
