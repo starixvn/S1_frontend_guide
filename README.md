@@ -55,35 +55,43 @@
 
 - [Gitlab 連結](http://ec2-18-141-59-251.ap-southeast-1.compute.amazonaws.com/)
 
+  > 程式碼專案集中地
+
+- Jeskins
+
+  - [DEV](http://13.213.82.69:8080/)
+  - [Release/PRD](https://jenkins.n88dev.com/)
+
 - Sportsbook Domain
 
-  - 前台個品牌的環境 Domain
+  > 各品牌網址及後台網址
 
-    - prd
-      - [Nova88](https://www.nova88.net)
-      - [Goal123](https://www.goal123.com)
-      - [Bwing](https://www.bwing.com)
-    - release
-      - [Nova88](https://release.nova88.net)
-      - [Goal123](https://release.goal123.com)
-      - [Bwing](https://release.bwing.com)
-    - dev
+  - PRD
+    - [Nova88](https://www.nova88.net)
+    - [Goal123](https://www.goal123.com)
+    - [Bwing](https://www.bwing.com)
+  - release
+    - [Nova88](https://release.nova88.net)
+    - [Goal123](https://release.goal123.com)
+    - [Bwing](https://release.bwing.com)
+  - DEV
+    - [Nova88](http://www.n88dev.com)
+    - [Goal123](http://stag.goal123.com)
+    - [Bwing](http://stag.bwing.com)
 
-      - [Nova88](http://www.n88dev.com)
-      - [Goal123](http://stag.goal123.com)
-      - [Bwing](http://stag.bwing.com)
+- 後台各環境 Domain
 
-  - 後台各環境 Domain
+  - 舊後台 Domain
 
-    - 舊後台 Domain
+    - [PRD](http://admin.n88dev.com/Home/Signin?ReturnUrl=%2F)
 
-      - [prd](http://admin.n88dev.com/Home/Signin?ReturnUrl=%2F)
+  - 新後台 Domain
 
-    - 新後台 Domain
-      - [prd](https://backoffice.nova88.net)
-      - [release](https://backofficerelease.nova88.net/login)
-      - [dev](http://adminstag.n88dev.com/)
-    - [Api Swagger 文件](https://admin.n88dev.com/swagger/index.html)
+    - [PRD](https://backoffice.nova88.net)
+    - [Release](https://backofficerelease.nova88.net/login)
+    - [DEV](http://adminstag.n88dev.com/)
+
+  - [Api Swagger 文件](https://admin.n88dev.com/swagger/index.html)
 
 ## 團隊工作指派與更新流程
 
