@@ -10,13 +10,15 @@
     - [1. 環境設定](#1-環境設定)
     - [2. 基本開發相關工具](#2-基本開發相關工具)
     - [3. 溝通軟體](#3-溝通軟體)
+  - [基本資訊](#基本資訊)
   - [團隊工作指派與更新流程](#團隊工作指派與更新流程)
+  - [關於值班](#關於值班)
 
 ## 新手村
 
 ### 1. 環境設定
 
-- [VPN](./vpn//README.md)
+- [VPN](/rookie/vpn/README.md)
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en/)
 
@@ -45,6 +47,48 @@
 - [Trello](https://trello.com/)
   > 使用公司提供 Account 加入，用於前端團隊時程規劃及開發狀況紀錄。
 
+## 基本資訊
+
+- [HR 系統](https://hr.a6789.net/)
+
+  > 請假及關於休假的各種查詢
+
+- [Gitlab 連結](http://ec2-18-141-59-251.ap-southeast-1.compute.amazonaws.com/)
+
+- Sportsbook Domain
+
+  - 前台個品牌的環境 Domain
+
+    - prd
+      - [Nova88](https://www.nova88.net)
+      - [Goal123](https://www.goal123.com)
+      - [Bwing](https://www.bwing.com)
+    - release
+      - [Nova88](https://release.nova88.net)
+      - [Goal123](https://release.goal123.com)
+      - [Bwing](https://release.bwing.com)
+    - dev
+
+      - [Nova88](http://www.n88dev.com)
+      - [Goal123](http://stag.goal123.com)
+      - [Bwing](http://stag.bwing.com)
+
+  - 後台各環境 Domain
+
+    - 舊後台 Domain
+
+      - [prd](http://admin.n88dev.com/Home/Signin?ReturnUrl=%2F)
+
+    - 新後台 Domain
+      - [prd](https://backoffice.nova88.net)
+      - [release](https://backofficerelease.nova88.net/login)
+      - [dev](http://adminstag.n88dev.com/)
+    - [Api Swagger 文件](https://admin.n88dev.com/swagger/index.html)
+
 ## 團隊工作指派與更新流程
 
-內容請見 [Team Task Process](/rookie/team-task-process/README.md)
+內容請見 [Team Task Process](/team-task-process/README.md)
+
+## 關於值班
+
+內容請見 [關於值班](/oncall/README.md)
