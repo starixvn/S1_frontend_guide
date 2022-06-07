@@ -16,7 +16,7 @@
 
 ### 1. 環境設定
 
-- 內容請見 [VPN 設定](./vpn//README.md)
+- [VPN](./vpn//README.md)
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en/)
 
