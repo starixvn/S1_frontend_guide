@@ -38,8 +38,18 @@
 
   正常開發來說此步驟需放上 MR 連結。
 
-- Iteration Done
-  此階段卡片代表已經通過 `MR/Code Review` 階段，並保存在 `Gitlab` 上，但尚未合併進相關主分之中 ( master/develop )。
+- MR/Code Done
+  此階段卡片代表已經通過 `MR/Code Review` 階段，並保存在 `Gitlab` 上，但尚未合併進相關主分之中 ( master/release/develop )。
 
-- Sprint Delivery
-  此階段卡片代表已完成上述過程，並透過 Jenkins 的 **Build** 與 **Deploy** 流程發布至 Stage 環境中
+- Develop Done
+  迭代完成，此階段卡片代表 已通過 `Merge` 合併回 `develop` 主分支之中．等待發布至各環境。
+
+- Stage Done
+  此階段卡片內容代表已將 `Develop Done` 迭代完成的內容合併至 `stage` 給 QA/PM/開發人員測試
+  **注意** : 新上版的內容需通知相關人員，才能將卡片移動到此列表
+
+- Iteration Done
+  迭代完成，此階段卡片代表已合併回 `master` 主分支之中。
+
+
+
