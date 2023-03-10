@@ -7,8 +7,8 @@
  - [完整開發流程](#完整開發流程)
  - [分支命名規則](#分支命名規則)
  - [疑難雜症](#疑難雜症)
-   - [MR有衝突](#MR衝突)
-   - [把多個 Commit 合併成一個 Commit](#把多個 Commit 合併成一個 Commit)
+   - [MR有衝突](#mr衝突)
+   - [把多個 Commit 合併成一個 Commit](#把多個-commit-合併成一個-commit)
 
 ## Git Flow 
 
@@ -64,6 +64,8 @@ git checkout -b "feat/ms-3433-your-feat-name"
 
 ## MR衝突 
 MR 在發布後可能經過一陣子迭代，中間新增了其他同事的程式碼，導致最後要 merge 時有衝突無法 merge : 
+
+若你的 branch 本身存在多個 commit 時，請先合併成單一 commit 在 rebase 解衝突 ( 合併成單一 Commit 請看下一章 )
 
 請使用你的 branch rebase 最新的 `develop`，解完衝突 rebase 完成後再 `push -f`
 
