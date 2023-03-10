@@ -16,6 +16,8 @@
   - [前端技能大補帖](#前端技能大補帖)
     - [Git](#git) 
     - [Ant-Design](#ant-design)
+    - [JS](#js)
+    - [React](#react)
 
 ## 新手村
 
@@ -120,6 +122,10 @@
 
 > 收錄所有專案所需的技術文件
 
+### React 
+
+內容請見 [React](/react/README.md)
+
 ### Git
 
 內容請見 [Git](/git/README.md)
@@ -127,3 +133,7 @@
 ### Ant-Design
 
 開發 Admin 專案必備技能，內容請見[antd](/antd/README.md)
+
+### JS 
+
+內容請見 [JS](/js/README.md)
