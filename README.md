@@ -124,16 +124,20 @@
 
 ### React 
 
-內容請見 [React](/react/README.md)
+- [React](/react/README.md)
+> React 開發常見錯誤
 
 ### Git
 
-內容請見 [Git](/git/README.md)
+- [Git](/git/README.md)
+> 團隊 Git Flow 與各分支相關細項
 
 ### Ant-Design
 
-開發 Admin 專案必備技能，內容請見[antd](/antd/README.md)
+- [Ant-Design](/antd/README.md)
+> Admin 開發所使用的 UI FrameWork
 
 ### JS 
 
-內容請見 [JS](/js/README.md)
+- [JS](/js/README.md)
+> JS 與 TS 基礎知識與常見錯誤
