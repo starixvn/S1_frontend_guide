@@ -13,6 +13,8 @@
   - [基本資訊](#基本資訊)
   - [團隊工作指派與更新流程](#團隊工作指派與更新流程)
   - [關於值班](#關於值班)
+  - [前端技能大補帖](#前端技能大補帖)
+    - [Git](#Git) 
 
 ## 新手村
 
@@ -32,7 +34,7 @@
 
   > HTTP/HTTPS 測試工具
 
-- [Source](https://www.sourcetreeapp.com/)
+- [Sourcetree](https://www.sourcetreeapp.com/)
 
   > Git GUI 工具
 
@@ -112,3 +114,11 @@
 ## 關於值班
 
 內容請見 [關於值班](/oncall/README.md)
+
+## 前端技能大補帖 
+
+> 收錄所有專案所需的技術文件
+
+### Git
+
+內容請見 [Git](/git/README.md)
