@@ -9,6 +9,7 @@
  - [疑難雜症](#疑難雜症)
    - [MR有衝突](#mr衝突)
    - [把多個 Commit 合併成一個 Commit](#把多個-commit-合併成一個-commit)
+   - [刪除本地所有分支](#刪除本地所有分支)
 
 ## Git Flow 
 
@@ -85,3 +86,14 @@ rebase 後的 branch 會和 origin 上的 branch commit 重複，故使用 `-f` 
 ## 把多個 Commit 合併成一個 Commit
 
 [教學文章](https://gitbook.tw/chapters/rewrite-history/merge-multiple-commits-to-one-commit)
+
+## 刪除本地所有分支
+
+隨著開發功能越來越多，存在本地的分支可能會變很多，一隻一隻刪很麻煩，底下提供靠一行程式碼刪除所有 branch 的方法：
+
+1. checkout 到你想留下的分支，可能是 `master` 或是 `main`
+2. 在終端機輸入 ：
+```bash
+git branch -D $(git branch)
+```
+3. 結束了。
