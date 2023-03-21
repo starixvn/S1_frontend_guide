@@ -14,9 +14,9 @@
   - [團隊工作指派與更新流程](#團隊工作指派與更新流程)
   - [關於值班](#關於值班)
   - [前端技能大補帖](#前端技能大補帖)
-    - [React](#react) 
+    - [React](#react)
     - [JS](#js)
-    - [Git](#git) 
+    - [Git](#git)
     - [Ant-Design](#ant-design)
 
 ## 新手村
@@ -40,6 +40,15 @@
 - [Sourcetree](https://www.sourcetreeapp.com/)
 
   > Git GUI 工具
+
+- [Flyvpn](https://www.flyvpn.com/tw/)
+
+> Vpn 工具測試各品牌前台
+
+```
+account: martin.jr@nova88.com
+password: Qwe123!@#
+```
 
 前台
 
@@ -118,26 +127,26 @@
 
 內容請見 [關於值班](/oncall/README.md)
 
-## 前端技能大補帖 
+## 前端技能大補帖
 
 > 收錄所有專案所需的技術文件
 
-### React 
+### React
 
 - [React](/react/README.md)
-> React 開發常見錯誤
+  > React 開發常見錯誤
 
 ### Git
 
 - [Git](/git/README.md)
-> 團隊 Git Flow 與各分支相關細項
+  > 團隊 Git Flow 與各分支相關細項
 
 ### Ant-Design
 
 - [Ant-Design](/antd/README.md)
-> Admin 開發所使用的 UI FrameWork
+  > Admin 開發所使用的 UI FrameWork
 
-### JS 
+### JS
 
 - [JS](/js/README.md)
-> JS 與 TS 基礎知識與常見錯誤
+  > JS 與 TS 基礎知識與常見錯誤
