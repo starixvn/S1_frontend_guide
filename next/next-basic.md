@@ -6,7 +6,7 @@
 
 > SSG、SSR 若不理解可先看[這篇](https://wenchen1997.com/blog/nextjs/nextJs-pre-rendering)
 
-![01.webp](./images/01.webp)
+![01](./images/01.png)
 
 基本上可以將 NextJS 在過去視為專注於 SSR 的 FrameWork , 而 GatsbyJS 則是專注於 SSG 的 FrameWork 
 
@@ -48,7 +48,7 @@ export const getServerSideProps: GetServerSideProps = async context => {
 
 所以我們可以回到編輯器的 terminal 看到：
 
-![02.webp](./images/02.webp)
+![02.webp](./images/02.png)
 
 和 React 不同的是，React 在 `run dev` 時，會起一個 node server 供我們做熱開發，即時更新我們在程式碼中做的改動。
 
@@ -58,7 +58,7 @@ NextJS 在 `run dev` 時 node server 不僅僅是用來熱開發，同時還會�
 ## Data Flow & Hydration
 前文提到，在 SSR 中，SSR 會透過運行 `getServerSideProps` 來將整個頁面渲染成 HTML 後傳入用戶端：
 
-![03](./images/03.webp)
+![03](./images/03.png)
 
 **Key Word** : 
 
