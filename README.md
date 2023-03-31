@@ -15,9 +15,11 @@
   - [關於值班](#關於值班)
   - [前端技能大補帖](#前端技能大補帖)
     - [React](#react)
+    - [Next](#next)
     - [JS](#js)
     - [Git](#git)
     - [Ant-Design](#ant-design)
+    
 
 ## 新手村
 
@@ -135,6 +137,11 @@ password: Qwe123!@#
 
 - [React](/react/README.md)
   > React 開發常見錯誤
+
+### Next
+
+- [Next](/next/README.md)
+  > 踏入 NextJS 開發的基礎知識
 
 ### Git
 
