@@ -16,7 +16,7 @@
 
 而 NextJS 則是以目前使用的版本 `Next 12` 的環境做說明。
 
---- 
+
 ## ServerSide Rendering
 
 GatsbyJS 在預設情況下 GatsbyJS 會在 build time 把所有網頁佈一份靜態頁出來，所以在架構邏輯上跟原生 React 差異不會太大。
@@ -54,7 +54,7 @@ export const getServerSideProps: GetServerSideProps = async context => {
 
 NextJS 在 `run dev` 時 node server 不僅僅是用來熱開發，同時還會負責 ServerSideRender 的 Server。
 
---- 
+
 ## Data Flow & Hydration
 前文提到，在 SSR 中，SSR 會透過運行 `getServerSideProps` 來將整個頁面渲染成 HTML 後傳入用戶端：
 
