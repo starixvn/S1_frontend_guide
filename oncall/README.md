@@ -12,7 +12,7 @@
   - [線上問題聯絡順序](#線上問題聯絡順序)
   - [其他事項](#其他事項)
 
-> [值班班表連結](https://docs.google.com/spreadsheets/d/1GAV5QpWbiFMhAvVVqLV3NcMNMKD9YqY6yXXkK51tfUM/edit#gid=1109261646)
+> [值班班表連結](https://docs.google.com/spreadsheets/d/1I0sIm7wzeXXs-SdcswQqy3jp5U26mbStMwiWQhTIaCk/edit#gid=795455735)
 
 ## 值班規範
 

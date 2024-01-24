@@ -19,7 +19,6 @@
     - [JS](#js)
     - [Git](#git)
     - [Ant-Design](#ant-design)
-    
 
 ## 新手村
 
@@ -75,7 +74,7 @@ password: Qwe123!@#
 
 ## 基本資訊
 
-- [HR 系統](https://hr.a6789.net/)
+- [HR 系統](https://hrmis.ailabpte.co/newhrmis/)
 
   > 請假及關於休假的各種查詢
 
@@ -87,39 +86,42 @@ password: Qwe123!@#
 
   > 用於部署環境
 
-  - [DEV](http://13.213.82.69:8080/)
-  - [Release/PRD](https://jenkins.n88dev.com/)
+  - [DEV](http://13.213.82.69:8080/login)
+  - [RELEASE / PRD](https://jenkins.n88dev.com/login)
 
-- Sportsbook Domain
+- SportsBook Domain
 
   > 各品牌網址及後台網址
 
-  - PRD
-    - [Nova88](https://www.nova88.net)
-    - [Goal123](https://www.goal123.com)
-    - [Bwing](https://www.bwing.com)
-  - release
-    - [Nova88](https://release.nova88.net)
-    - [Goal123](https://release.goal123.com)
-    - [Bwing](https://release.bwing.com)
   - DEV
     - [Nova88](http://www.n88dev.com)
     - [Goal123](http://stag.goal123.com)
     - [Bwing](http://stag.bwing.com)
+    - [Yashbet](https://www.yashbet.com/en)
+  - RELEASE
+    - [Nova88](https://release.nova88.net)
+    - [Goal123](https://release.goal123.com)
+    - [Bwing](https://release.bwing.com)
+    - [Yashbet](https://release.yashbet.com/en)
+  - PRD
+    - [Nova88](https://www.nova88.net)
+    - [Goal123](https://www.goal123.com)
+    - [Bwing](https://www.bwing.com)
+    - [Yashbet](https://stage.aiking88dev.net/en)
 
 - 後台各環境 Domain
 
-  - 舊後台 Domain
+  - 後台主站
 
-    - [PRD](http://admin.n88dev.com/Home/Signin?ReturnUrl=%2F)
+    - [DEV](https://adminstag.n88dev.com/Login)
+    - [RELEASE](https://backofficerelease.nova88.net/login)
+    - [PRD](https://backoffice.nova88.net/login)
 
-  - 新後台 Domain
+  - YashBet 獨立站
 
-    - [PRD](https://backoffice.nova88.net)
-    - [Release](https://backofficerelease.nova88.net/login)
-    - [DEV](http://adminstag.n88dev.com/)
-
-  - [Api Swagger 文件](https://admin.n88dev.com/swagger/index.html)
+    - [DEV](https://backoffice.aiking88dev.net/login)
+    - [RELEASE](https://backofficerelease.yashbet.com/login)
+    - [PRD](https://backoffice.yashbet.com/login) [PRD2](https://backoffice.aiking88.net/login)
 
 ## 團隊工作指派與更新流程
 
