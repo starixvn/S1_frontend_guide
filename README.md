@@ -135,6 +135,10 @@ password: Qwe123!@#
 
 > 收錄所有專案所需的技術文件
 
+### EKS 
+- [EKS文件](/eks/README.md)
+  > 用於 NX-Next 專案檢視前端 server 狀態的儀表板
+
 ### React
 
 - [React](/react/README.md)
