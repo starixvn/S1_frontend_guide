@@ -97,7 +97,8 @@ password: Qwe123!@#
     - [Nova88](http://www.n88dev.com)
     - [Goal123](http://stag.goal123.com)
     - [Bwing](http://stag.bwing.com)
-    - [Yashbet](https://www.yashbet.com/en)
+    - [Yashbet](https://stage.aiking88dev.net/en)
+  
   - RELEASE
     - [Nova88](https://release.nova88.net)
     - [Goal123](https://release.goal123.com)
@@ -107,7 +108,7 @@ password: Qwe123!@#
     - [Nova88](https://www.nova88.net)
     - [Goal123](https://www.goal123.com)
     - [Bwing](https://www.bwing.com)
-    - [Yashbet](https://stage.aiking88dev.net/en)
+    - [Yashbet](https://www.yashbet.com/en)
 
 - 後台各環境 Domain
 
