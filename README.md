@@ -50,7 +50,7 @@
 
 ```
 account: martin.jr@nova88.com
-password: Qwe123!@#
+password: xCdi5wgs.6@3gUR
 ```
 
 前台
