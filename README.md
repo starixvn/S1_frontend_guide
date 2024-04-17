@@ -101,7 +101,7 @@ password: xCdi5wgs.6@3gUR
   > 各品牌網址及後台網址
 
   - DEV
-    - [Nova88](http://www.n88dev.com)
+    - [Nova88](https://stage.nova88dev.com/en)
     - [Goal123](http://stag.goal123.com)
     - [Bwing](http://stag.bwing.com)
     - [Yashbet](https://stage.aiking88dev.net/en)
