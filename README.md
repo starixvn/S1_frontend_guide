@@ -121,7 +121,7 @@ password: xCdi5wgs.6@3gUR
 
   - 後台主站
 
-    - [DEV](https://adminstag.n88dev.com/Login)
+    - [DEV](https://admin.nova88dev.com/)
     - [RELEASE](https://backofficerelease.nova88.net/login)
     - [PRD](https://backoffice.nova88.net/login)
 
