@@ -1,4 +1,4 @@
-# EKS Log
+# Elastic Log
 
 ### 功能：
 
@@ -8,11 +8,9 @@
 
 ---
 
-[EKS網址](https://kibana.ailabpte.co/)
+[ELK網址](https://kibana.ailabpte.co/)
 
-帳號：frontteam
-
-密碼：rE7nq4eY
+公用帳號已關閉，有需要使用者再洽主管索取個人帳號。
 
 ---
 
